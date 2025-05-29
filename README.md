@@ -23,7 +23,7 @@
 - **Vanilla JavaScript**
 ---
 
-📦 Getting Started
+## 📦 Getting Started
 Follow these steps to get SnapCurrency running locally:
 
 1. Clone the repository
@@ -34,30 +34,34 @@ cd snapcurrency
 Option A: Open index.html in your preferred browser.
 
 Option B: Use Live Server extension in VS Code for auto-refreshing preview.
+---
 
-🔑 API Integration
+## 🔑 API Integration
 Make sure to replace the YOUR_NEW_API_KEY in the code if you’re using a premium or custom exchange rate API.
 
 The default code uses https://api.exchangerate-api.com/v4/latest/{currency}, which does not require an API key.
+---
 
-🧩 Project Structure
-
+## 🧩 Project Structure
+SnapCurrency
+/Currency Converter/
 ├── index.html         # Main HTML page
 ├── style.css          # Stylesheet
 ├── script.js          # JavaScript logic (fetch, swap, flags, conversion)
-📜 License
+---
+
+## 📜 License
 This project is licensed under the MIT License.
+---
 
-🤝 Contributing
-Have ideas or found a bug? Feel free to:
-
+## 🤝 Contributing
+Found a bug or have a feature idea? Feel free to:
 🌟 Star the repo
-
 🐞 Open an issue
-
 📩 Submit a pull request
+---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Made with ❤️ by Tamanna Shenoy
 
 Simplifying conversions, one currency at a time.
