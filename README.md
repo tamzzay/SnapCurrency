@@ -28,7 +28,7 @@ Follow these steps to get SnapCurrency running locally:
 
 1. Clone the repository
 
-git clone 
+git clone https://github.com/tamzzay/SnapCurrency.git
 cd snapcurrency
 2. Open in browser
 Option A: Open index.html in your preferred browser.
@@ -41,7 +41,7 @@ Make sure to replace the YOUR_NEW_API_KEY in the code if you’re using a premiu
 The default code uses https://api.exchangerate-api.com/v4/latest/{currency}, which does not require an API key.
 
 🧩 Project Structure
-snapcurrency/
+
 ├── index.html         # Main HTML page
 ├── style.css          # Stylesheet
 ├── script.js          # JavaScript logic (fetch, swap, flags, conversion)
